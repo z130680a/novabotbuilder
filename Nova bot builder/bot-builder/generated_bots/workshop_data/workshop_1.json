@@ -1,0 +1,12 @@
+{
+  "reserved": [
+    {
+      "telegram_user_id": 9999999999,
+      "username": "test",
+      "first_name": "Test Participant",
+      "last_name": null,
+      "phone": "09111111111"
+    }
+  ],
+  "waitlist": []
+}

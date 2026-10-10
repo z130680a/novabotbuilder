@@ -1,0 +1,70 @@
+{
+  "reservations": {
+    "sandbox_user_2": {
+      "user_id": "sandbox_user_2",
+      "name": "کاربر تست 2"
+    },
+    "sandbox_user_3": {
+      "user_id": "sandbox_user_3",
+      "name": "کاربر تست 3"
+    },
+    "sandbox_user_4": {
+      "user_id": "sandbox_user_4",
+      "name": "کاربر تست 4"
+    },
+    "sandbox_user_5": {
+      "user_id": "sandbox_user_5",
+      "name": "کاربر تست 5"
+    },
+    "sandbox_user_6": {
+      "user_id": "sandbox_user_6",
+      "name": "کاربر تست 6"
+    },
+    "sandbox_user_7": {
+      "user_id": "sandbox_user_7",
+      "name": "کاربر تست 7"
+    },
+    "sandbox_user_8": {
+      "user_id": "sandbox_user_8",
+      "name": "کاربر تست 8"
+    },
+    "sandbox_user_9": {
+      "user_id": "sandbox_user_9",
+      "name": "کاربر تست 9"
+    },
+    "sandbox_user_10": {
+      "user_id": "sandbox_user_10",
+      "name": "کاربر تست 10"
+    },
+    "sandbox_user_11": {
+      "user_id": "sandbox_user_11",
+      "name": "کاربر تست 11"
+    },
+    "sandbox_user_12": {
+      "user_id": "sandbox_user_12",
+      "name": "کاربر تست 12"
+    },
+    "sandbox_user_13": {
+      "user_id": "sandbox_user_13",
+      "name": "کاربر تست 13"
+    },
+    "sandbox_user_14": {
+      "user_id": "sandbox_user_14",
+      "name": "کاربر تست 14"
+    },
+    "sandbox_user_15": {
+      "user_id": "sandbox_user_15",
+      "name": "کاربر تست 15"
+    },
+    "sandbox_waiting_user": {
+      "user_id": "sandbox_waiting_user",
+      "name": "کاربر انتظار"
+    }
+  },
+  "waitlist": [
+    {
+      "user_id": "sandbox_user_1",
+      "name": "کاربر تست 1"
+    }
+  ]
+}

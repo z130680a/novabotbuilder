@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "owner_user_id": 2,
+    "creator_ip": "",
+    "creator_country": "",
+    "creator_city": "",
+    "bot_name": "کارگاه بی‌هدف",
+    "purpose": "این کارگاه صرفاً برای تست ساخته شده و هدف، برنامه‌ریزی یا محتوای مشخصی ندارد.",
+    "capacity": 2,
+    "features": [
+      "تست، بدون برنامه‌ریزی"
+    ],
+    "missing_information": [],
+    "event_date": "۱۴۰۵/۰۷/۲۰",
+    "event_time": "10:00",
+    "event_end_time": "10:30",
+    "spec": {
+      "bot_name": "کارگاه بی‌هدف",
+      "purpose": "این کارگاه صرفاً برای تست ساخته شده و هدف، برنامه‌ریزی یا محتوای مشخصی ندارد.",
+      "capacity": 2,
+      "features": [
+        "تست، بدون برنامه‌ریزی"
+      ],
+      "missing_information": [],
+      "event_date": "۱۴۰۵/۰۷/۲۰",
+      "event_time": "10:00",
+      "event_end_time": "10:30"
+    }
+  }
+]
