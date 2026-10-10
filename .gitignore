@@ -218,3 +218,33 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.envrc
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Local runtime data - review before publishing
+data.json
+bot_config.json
+workshops.json
+
+# Temporary files
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
